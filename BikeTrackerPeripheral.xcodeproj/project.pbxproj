@@ -9,7 +9,6 @@
 /* Begin PBXBuildFile section */
 		781417182462B60700584D64 /* Chirp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 781417172462B60700584D64 /* Chirp.swift */; };
 		7814171B2462B85A00584D64 /* Siren.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 7814171A2462B85A00584D64 /* Siren.mp3 */; };
-		788115A62462F96F00A3EB72 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 788115A52462F96F00A3EB72 /* GoogleService-Info.plist */; };
 		788115AC2463D5BF00A3EB72 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 788115AB2463D5BF00A3EB72 /* ViewController.swift */; };
 		788115B32463D64100A3EB72 /* StatusView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 788115AE2463D64100A3EB72 /* StatusView.xib */; };
 		788115B42463D64100A3EB72 /* BatteryStatusView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 788115AF2463D64100A3EB72 /* BatteryStatusView.xib */; };
@@ -51,7 +50,6 @@
 		71B660260C186B4150204E1B /* Pods-BikeTrackerPeripheral.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BikeTrackerPeripheral.debug.xcconfig"; path = "Target Support Files/Pods-BikeTrackerPeripheral/Pods-BikeTrackerPeripheral.debug.xcconfig"; sourceTree = "<group>"; };
 		781417172462B60700584D64 /* Chirp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Chirp.swift; sourceTree = "<group>"; };
 		7814171A2462B85A00584D64 /* Siren.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Siren.mp3; sourceTree = "<group>"; };
-		788115A52462F96F00A3EB72 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		788115AB2463D5BF00A3EB72 /* ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		788115AE2463D64100A3EB72 /* StatusView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = StatusView.xib; sourceTree = "<group>"; };
 		788115AF2463D64100A3EB72 /* BatteryStatusView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = BatteryStatusView.xib; sourceTree = "<group>"; };
@@ -144,7 +142,6 @@
 			isa = PBXGroup;
 			children = (
 				788115AD2463D64100A3EB72 /* View */,
-				788115A52462F96F00A3EB72 /* GoogleService-Info.plist */,
 				781417192462B85A00584D64 /* Sounds */,
 				7893427124602C1300E7CC8C /* Store */,
 				789342892460735800E7CC8C /* Device */,
@@ -332,7 +329,6 @@
 				788115B32463D64100A3EB72 /* StatusView.xib in Resources */,
 				7814171B2462B85A00584D64 /* Siren.mp3 in Resources */,
 				78934253245DF8C600E7CC8C /* LaunchScreen.storyboard in Resources */,
-				788115A62462F96F00A3EB72 /* GoogleService-Info.plist in Resources */,
 				78934250245DF8C600E7CC8C /* Assets.xcassets in Resources */,
 				7893424E245DF8C500E7CC8C /* Main.storyboard in Resources */,
 			);
